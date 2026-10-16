@@ -7,6 +7,8 @@ Bem-vindo(a) à minha página no GitHub! Aqui, compartilho alguns códigos com o
 [![CursoCAD](https://img.shields.io/badge/🇧🇷_Curso-CAD_em_Python-blue?style=for-the-badge)](https://pay.kiwify.com.br/le4DtrT)
 
 [![CursoPython](https://img.shields.io/badge/🇧🇷_Curso-Python_+_Web_Apps-blue?style=for-the-badge)](https://pay.kiwify.com.br/07Fn0DA)
+
+Cupom de desconto: MECHHUB
 ___
 
 [![Youtube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://www.youtube.com/@MecHub?sub_confirmation=1)
